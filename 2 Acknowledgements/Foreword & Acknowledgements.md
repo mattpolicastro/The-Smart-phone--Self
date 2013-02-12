@@ -1,0 +1,8 @@
+1. Genesis - a personal note on the origins of this project
+I got my iPhone for Christmas in 2010. My years of dedication to following the latest and greatest of technological development had come to a head. For hours, I was utterly captivated by a rounded rectangle filled with lights and sounds.
+	Following the bleeding edge of technology has long been a passion of mine. However, it was not until recently that I seriously applied any sort of sociological imagination to the consumer technology industry. What I have found has surprised me, unsettled me, and caused me to question all roles of technology in my life. This has been painful, but necessary. 
+	A sense of moral panic has overtaken our society with regard to our technological brethren. While its basest sentiments are well and good, they miss the opportunities that are now offered to us. Careful and considered use of technology will be our way forward; not the wild and explosive innovation we have seen in the past decades.
+2. Process - detailing the use of Github, markdown, etc.
+I decided to experiment with the conventional processes of writing, editing, and publishing. This is not ground-breaking, but within the context of The College of Wooster I believe it to be unprecedented and an important step forward. The "static" mode of creation—the mythic, isolated writer toiling away—ignores the collective conversation that technology offers us. I sought to implement a more open and versatile system.
+	To do so, I have hosted all of my work on Github in Markdown format (more on Markdown can be found here: http://daringfireball.net/projects/markdown/).
+3. Acknowledgements
