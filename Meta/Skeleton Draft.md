@@ -61,26 +61,10 @@ The potential of the PC was already well-established. Throughout the 1960's, res
 
 ## Marx
 
-Marx, while essential in establishing the critical framework necessary for later theories, had an extremely limited conception of the commodity. While his notion of the commodity works well for such things as tables or chairs, how does it apply to devices like televisions and computers, which are shaped almost entirely by the media they convey? Is the device merely the frame for the commodities within?
-
-- "The commodity is, first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind." 220
-- - how is this changed when these commodities become *literally* internal?
-- "The nature of these needs, whether they arise, for example, from the stomach, or the imagination, makes no difference. Nor does it matter here how the things satisfies man's need, whether directly as a means of subsistence, i.e. an object of consumption, or indirectly as a means of production." 220
-- - cf. Baudrillard's conception of consumption
-- use-value is directly tied to "the physical properties of the commodity, and has no existence apart from the latter" 220
-- "When examining use-values, we always assume we are dealing with definite quantities… …Use-values are only realised in use of in consumption." 221
-- - first dilemma: how do we establish the use-value of devices which deliver media? do we consider the object in vacuum, or as the sum-whole of the entire ecosystem it has access to? (e.g. the TV and channels, the smartphone and apps) cf. Kevin Kelly's conception of the technium (which then renders useless Marx's definition of use-value, as it transcends the physical (German *technik*) to include the social and cultural (French *technique*))
-- Marx identifies exchange-value as something wholly separate and abstract from use-value (eventually leading to the abstraction of human labour) 221–223
-- Marx emphasises the importance of labour-time in establishing value
-- - does that necessarily match with the social construction of value with smartphones? Are they not considered anonymous and magical? Hopefully answered in Section 4.
-- "Commodities which contain equal quantities of labour, or which can be produced in the same time, have therefore the same value." 224
-- - Android and iOS devices are extremely similar, but occupy vastly different segments of the market. cf. Baudrillard to examine consumption as the explanation.
-- - Considering objects in a vacuum does not adequately explain the differences that exist in the smartphone marketplace. Any number of other factors influence the creation of value; namely, the ecosystems they inhabit and the consumptive value attributed to them (ref. Baudrillard).
-
-[Marx's notion of the commodity is flawed, but alienation, production, and consumption are all central to later theories which establish the "walled gardens" which are established in computing.]
-
+When considering smartphones—and particularly the iPhone—many leap to Marx, exclaiming, "what an example of commodity fetishism!". While correct in that these products are highly fetishised commodities, this response is reductive. Marx's work was essential to the critical discourse that came after it, but fails to grasp contemporary realities of production and consumption in fundamental fashions. Furthermore, Marx's preemption of his own, predicted revolution left him without knowledge of the specific manifestations of alienation in a post-Taylor, post-Ford society.
 
 ## Gramsci: Prison Notebook 22
+
 *Establishes the theory of Fordism and thoroughly critiques the growing American culture of corporate paternalism—a trend that has taken on new life in the digital domain.*
 
 Despite being held as a political prisoner by the Italian Fascist party, Antonio Gramsci was able to analyse and elaborate the enormous changes occurring on the other side of the Atlantic. While Marx had outlined the specific modes of alienation and exploitation, Gramsci provided a thoroughly articulate and prescient account of American industry's effects on the worker/consumer. After World War I, it was clear social and economic conditions were rapidly changing in Europe. 
@@ -92,8 +76,6 @@ Rationalism was the new order of the day, and was seized upon by men like Freder
 As factory activity became the centre of productive life after World War I, *present complaints of "work-life imbalance" are rendered pathetic.* Rather than simple attempts at "puritanism", Gramsci made it clear that firms' invasion of workers' private lives was the manifestation of something else entirely: "the biggest collective effort to date to create, with unprecedented speed, and with a consciousness of purpose unmatched in history, a new type of worker and of man" (597). He continues:
 
 > "It is from this point of view that one should study the "puritanical" initiative of American industrialists like Ford. It is certain that they are not concerned with the "humanity" or the "spirituality of the worker, which are immediately smashed. This "humanity and spirituality" cannot be realised except in the world of production and work and in productive "creation". They exist most in the artisan, in the "demiurge", when the worker's personality was reflected whole in the object created and when the link between art and labour was still very strong. But it is precisely against this "humanism" that the new industrialism is fighting. "Puritanical" initiatives simply have the purpose of preserving, outside of work, a certain psycho-physical equilibrium which prevents the physiological collapse of the worker, exhausted by the new method of production."
-
-
 
 **Important theme: (corporative) systems, as they take on history, transition to preservation rather than propulsion (583). In the case of industry and technology, monopolisation and consolidation has become the norm. That said, change is still possible (even the most tightly swathed baby managed to develop and grow) (584).**
 
