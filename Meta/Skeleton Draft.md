@@ -80,10 +80,22 @@ Marx, while essential in establishing the critical framework necessary for later
 [Marx's notion of the commodity is flawed, but alienation, production, and consumption are all central to later theories which establish the "walled gardens" which are established in computing.]
 
 
-## Gramsci
-
-### The Prison Notebooks: Notebook 22
+## Gramsci: Prison Notebook 22
 *Establishes the theory of Fordism and thoroughly critiques the growing American culture of corporate paternalism—a trend that has taken on new life in the digital domain.*
+
+Despite being held as a political prisoner by the Italian Fascist party, Antonio Gramsci was able to analyse and elaborate the enormous changes occurring on the other side of the Atlantic. While Marx had outlined the specific modes of alienation and exploitation, Gramsci provided a thoroughly articulate and prescient account of American industry's effects on the worker/consumer. After World War I, it was clear social and economic conditions were rapidly changing in Europe. 
+
+Aristocratic classes—kindly termed "parasites" by Gramsci and his contemporaries—were in a precarious position. The industrial revolution had been kind to the United States, and Europe wished to "have a full barrel and a drunken wife" inasmuch that it wished to match American productive capacity while maintaining its traditional aristocracy and attendant social classes (564). While arguments of the time defended the existing class and social structures, Gramsci made quick work of them; cities across Europe had become rife with marginally productive citizens as consequence of law, custom, or tradition. In contrast, America did not have "this leaden burden to support" (570). In effect, American industry developed in a relative vacuum, free to evolve and experiment with new structures and relationships between firms and workers.
+
+Rationalism was the new order of the day, and was seized upon by men like Frederick Taylor and Henry Ford. Practices like vertical integration (the stratification and alignment of means of production along one firm's holdings and interests) made leaps and bounds in productivity and efficiency. Unions and skilled labour were subverted by the attractive wages and benefits that were offered by those improvements. Gramsci realised that the factory had become the epicentre of a new hegemony, where "the whole life of the nation revolve[d] around production" (571).
+
+As factory activity became the centre of productive life after World War I, *present complaints of "work-life imbalance" are rendered pathetic.* Rather than simple attempts at "puritanism", Gramsci made it clear that firms' invasion of workers' private lives was the manifestation of something else entirely: "the biggest collective effort to date to create, with unprecedented speed, and with a consciousness of purpose unmatched in history, a new type of worker and of man" (597). He continues:
+
+> "It is from this point of view that one should study the "puritanical" initiative of American industrialists like Ford. It is certain that they are not concerned with the "humanity" or the "spirituality of the worker, which are immediately smashed. This "humanity and spirituality" cannot be realised except in the world of production and work and in productive "creation". They exist most in the artisan, in the "demiurge", when the worker's personality was reflected whole in the object created and when the link between art and labour was still very strong. But it is precisely against this "humanism" that the new industrialism is fighting. "Puritanical" initiatives simply have the purpose of preserving, outside of work, a certain psycho-physical equilibrium which prevents the physiological collapse of the worker, exhausted by the new method of production."
+
+
+
+**Important theme: (corporative) systems, as they take on history, transition to preservation rather than propulsion (583). In the case of industry and technology, monopolisation and consolidation has become the norm. That said, change is still possible (even the most tightly swathed baby managed to develop and grow) (584).**
 
 ## Aglietta
 
@@ -153,6 +165,8 @@ Similarly, in examining Lance Armstrong’s semi-autobiography It’s All About 
 It is plain that the distinctions and definitions of acceptable and unacceptable technologies and their uses are very problematic. In a cyborg politics, systems of meaning coalesce and dissipate along with their contexts, and are interpreted and expressed individually through hybridised lenses. However, Lewis provides some measure of direction; using the case of Prozac as a case of the new cyborgian reality, she calls for "priority of democracy over science"–the conscious, self-aware development of knowledge through science. In doing so, she invokes the key differentiator of human choice and agency–”humanness” and humanity–as a means of clarifying these concerns (Lewis 2003:62). However, by identifying human choice as the defining feature of positive development, she perversely shuts the door to more complex or bizarre interpretations of cyborgism.
 
 ## Turkle
+
+**In transitions between types of civilisation, Gramsci argues the middle class undergo coercion. Puritan ideologies (human essentialism, in this case) arise until the society has successfully transitioned (*Selections* 592. "Totalitarian social hypocrisy" (594)***
 
 ### The Second Self
 
