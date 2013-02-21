@@ -3,7 +3,17 @@
 
 ## Marx
 
-When considering smartphones—and particularly the iPhone—many leap to Marx, exclaiming, "what an example of commodity fetishism!". While correct in that these products are highly fetishised commodities, this response is reductive. Marx's work was essential to the critical discourse that came after it, but fails to grasp contemporary realities of production and consumption in fundamental fashions. Furthermore, Marx's preemption of his own, predicted revolution left him without knowledge of the specific manifestations of alienation in a post-Taylor, post-Ford society.
+When considering smartphones—particularly the iPhone—many leap to Marx, exclaiming, "what an example of commodity fetishism!". While this layperson is correct in that these products are highly fetishised commodities, his response is reductive. Smartphones and other computers may be complicit in the alienation of the worker, but they are embedded in the larger social, political, and economic system that takes true responsibility. In that sense, Marx's writing was critical in establishing the critical discourse this paper intends to examine.
+
+However, Marx's work was also limited. His typology of modes of alienation holds true even today, even though he failed to predict the specific, practical manifestations and consequences of these relationships (something Gramsci would accomplish soon thereafter). Similarly, his definition of the commodity and its use-value was limited and failed to anticipate the rise of media and other, non-material commodities. The smartphone itself is a tangible commodity, certainly, but its character and dimensions are virtually infinite as software can broaden or tighten its use-value at will.
+
+### ***Economic and Philosophic Manuscripts:*** Alienated Labour
+
+*Alienated labour is essential to understanding the plight of the worker/consumer in contemporary, productive society.*
+
+### ***Capital,*** Volume One: Chapter One: The Commodity Sections 1, 2, and 4
+
+*The commodity is a powerful tool for understanding use-value and exchange value, but the transition to digital media (where any given commodity is virtually infinitely reproducible) rather breaks his analysis.*
 
 ## Gramsci: Prison Notebook 22
 
@@ -37,13 +47,13 @@ With respect to the present, his questions and predictions were prescient. Ameri
 
 ### A Theory of Capitalist Regulation
 
-*Further explores corporate paternalism and offers a comprehensive account of its evolution in the American industrial context.*
+*Further explores corporate paternalism and development; offering a comprehensive account of its role in the American industrial context.*
 
 ## Baudrillard
 
 ### The Consumer Society
 
-*An extension of Aglietta and Gramsci in critiquing the ways in which corporations drive and influence consumer life; that in fact, consumption has become the engine of society, and that society has completely internalised the consumptive prerogative that it is completely different from Marx's conceptions of production.*
+*By the mechanisms so thoroughly outlined by Aglietta, Baudrillard breaks new ground by analysing society not through its production but its consumption. The worker's role as worker has been supplanted by his role as consumer. While not nearly so overt as Fordism's early attempts at intervention into the worker's life, the corporation's place in the consumer's life is no small one.*
 
 ## Ludlow: The Greek God Model of Governance
 
