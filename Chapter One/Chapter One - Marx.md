@@ -1,8 +1,6 @@
 ## Marx
 
-## Marx
-
-Marx, while essential in establishing the critical framework necessary for later theories, had an extremely limited conception of the commodity. While his notion of the commodity works well for such things as tables or chairs, how does it apply to devices like televisions and computers, which are shaped almost entirely by the media they convey? Is the device merely the frame for the commodities within?
+When considering smartphones—and particularly the iPhone—many leap to Marx, exclaiming, "what an example of commodity fetishism!". While correct in that these products are highly fetishised commodities, this response is reductive. Marx's work was essential to the critical discourse that came after it, but fails to grasp contemporary realities of production and consumption in fundamental fashions. Furthermore, Marx's preemption of his own, predicted revolution left him without knowledge of the specific manifestations of alienation in a post-Taylor, post-Ford society.
 
 - "The commodity is, first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind." 220
 - - how is this changed when these commodities become *literally* internal?
