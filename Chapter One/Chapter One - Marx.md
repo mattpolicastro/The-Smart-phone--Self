@@ -8,9 +8,13 @@ However, Marx's work was also limited. His typology of modes of alienation holds
 
 *Alienated labour is essential to understanding the plight of the worker/consumer in contemporary, productive society.*
 
+In writing his manuscript on alienated labour, Marx had several key assumptions—that society operated on capitalist fundamentals; that the proletariat and the bourgeoisie were estranged—which allowed him to categorise the ways in which the worker was drawn away from a more natural state of labour. Alienation of the worker took four forms: alienation from the products of labour, alienation from labour itself, alienation from himself species-being, and alienation of the worker from other workers. (1994:59–61). It is against this backdrop that all later thinkers examined in this chapter make their arguments.
+
 ### ***Capital,*** Volume One: Chapter One: The Commodity Sections 1, 2, and 4
 
 *The commodity is a powerful tool for understanding use-value and exchange value, but the transition to digital media (where any given commodity is virtually infinitely reproducible) rather breaks his analysis.*
+
+
 
 - "The commodity is, first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind." 220
 - - how is this changed when these commodities become *literally* internal?

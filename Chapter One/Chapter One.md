@@ -11,9 +11,7 @@ However, Marx's work was also limited. His typology of modes of alienation holds
 
 *Alienated labour is essential to understanding the plight of the worker/consumer in contemporary, productive society.*
 
-### ***Capital,*** Volume One: Chapter One: The Commodity Sections 1, 2, and 4
-
-*The commodity is a powerful tool for understanding use-value and exchange value, but the transition to digital media (where any given commodity is virtually infinitely reproducible) rather breaks his analysis.*
+In writing his manuscript on alienated labour, Marx had several key assumptions—that society operated on capitalist fundamentals; that the proletariat and the bourgeoisie were estranged—which allowed him to categorise the ways in which the worker was drawn away from a more natural state of labour. Alienation of the worker took four forms: alienation from the products of labour, alienation from labour itself, alienation from himself species-being, and alienation of the worker from other workers. (1994:59–61). It is against this backdrop that all later thinkers examined in this chapter make their arguments.
 
 ## Gramsci: Prison Notebook 22
 
@@ -43,11 +41,21 @@ With respect to the present, his questions and predictions were prescient. Ameri
 
 **Important themes: (corporative) systems, as they take on history, transition to preservation rather than propulsion (583). In the case of industry and technology, monopolisation and consolidation has become the norm. In American and Fordist culture, caste systems arose due to surplus value and productive capacity among ruling classes (603). Surplus value and productive capacity inevitably result in castes—though in the American context, labour saving devices created a large consumer class that was still reasonably productive (shifting the lower castes of society out of the U.S. into a global context). That said, change is still possible (even the most tightly swathed baby managed to develop and grow) (584).**
 
-## Aglietta
+## Aglietta: A Theory of Capitalist Regulation
 
-### A Theory of Capitalist Regulation
+*Further explores corporate paternalism and offers a comprehensive account of its evolution in the American industrial context.*
 
-*Further explores corporate paternalism and development; offering a comprehensive account of its role in the American industrial context.*
+"An articulation between process of production and mode of consumption" (117)
+
+Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta established the regulation school and thoroughly defined the state of capitalism at the time: bred from Taylorism, Fordism had firmly taken root 
+
+### Accumulation and concentration of wealth
+
+- Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
+
+### ***Capital,*** Volume One: Chapter One: The Commodity Sections 1, 2, and 4
+
+*The commodity is a powerful tool for understanding use-value and exchange value, but the transition to digital media (where any given commodity is virtually infinitely reproducible) rather breaks his analysis.*
 
 ## Baudrillard
 
