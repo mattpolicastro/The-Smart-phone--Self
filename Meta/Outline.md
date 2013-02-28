@@ -44,4 +44,6 @@ This section will provide an account of the profoundly macro sociological effect
 # Ch. VI Conclusion
 1. New Aesthetic
 2. A postmodern pragmatism
+3. Feminism in technology and technology scholarship
+
 # Appendix
