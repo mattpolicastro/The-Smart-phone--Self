@@ -39,40 +39,44 @@ Mocking Pirandello's claims that a new civilisation had been born in America, Gr
 
 With respect to the present, his questions and predictions were prescient. American society was free of history and tradition after World War I, but the profound changes in American life brought about by World War II were plenty to generate the traditions and customs he found so loathsome in Europe. However, rather than aristocracy or new social strata, this history manifested itself in the new practices and expectations of economic activity; the balance of work and leisure; and the profoundly paternal role of the firm in the worker's life. And as the United States took its place as a global superpower, society and economic activity transitioned to preservation, rather than propulsion (Gramsci 1971:583). While Gramsci would die in prison before America fully subsumed European economic systems, his observations would make themselves clear to later thinkers such as Aglietta and Baudrillard—that American activity was "an organic extension and an intensification of European civilisation, which has simply acquired a new coating in the American climate" (1971:622).
 
-**Important themes: (corporative) systems, as they take on history, transition to preservation rather than propulsion (583). In the case of industry and technology, monopolisation and consolidation has become the norm. In American and Fordist culture, caste systems arose due to surplus value and productive capacity among ruling classes (603). Surplus value and productive capacity inevitably result in castes—though in the American context, labour saving devices created a large consumer class that was still reasonably productive (shifting the lower castes of society out of the U.S. into a global context). That said, change is still possible (even the most tightly swathed baby managed to develop and grow) (584).**
+## Galbraith
 
-## Aglietta: A Theory of Capitalist Regulation
+*Important in recognising how thoroughly production had permeated society, but seems confused when read with respect to Marx and Gramsci. Many of the problems identified here—over-production, marginal profits—might be traced to the then-present theories of consumer demand in Ch. 10. However, Baudrillard's account of production and consumption does a much better job of explaining these phenomena.*
 
-*Further explores corporate paternalism and offers a comprehensive account of its evolution in the American industrial context.*
+*Interestingly, Galbraith's interpretation of the "New Class" weirdly resembles our current state of work: primarily knowledge-based, meant to deliver fulfilment or satisfaction. Again, with respect to Marx, Gramsci, and later authors, was this something of an interregnum period? The time where Fordist capitalism, focussed on physical production, had not reoriented itself to extract value through alienation by consumption?*
 
-"An articulation between process of production and mode of consumption" (117)
+It was not until after the war that John Kenneth Galbraith wrote his critique of productive life, *The Affluent Society*. Though Galbraith was deeply sceptical of Marxism—an entire chapter of the text is devoted to "The Marxian Pall" and is laden with derision for its adherents—he too was well aware of how thoroughly production had centred itself in society. However, as consequence of his scepticism he is thoroughly unwilling to consider Fordism as a movement of negative social consequence. 
 
-Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta established the regulation school and thoroughly defined the state of capitalism at the time: bred from Taylorism, Fordism had firmly taken root 
-
-### Accumulation and concentration of wealth
-
-- Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
-
-### ***Capital,*** Volume One: Chapter One: The Commodity Sections 1, 2, and 4
-
-*The commodity is a powerful tool for understanding use-value and exchange value, but the transition to digital media (where any given commodity is virtually infinitely reproducible) rather breaks his analysis.*
+When read with respect to Gramsci and Marx's prior work, *The Affluent Society* is riddled with contradictions. For Galbraith, productive capacity had managed to outstrip any society's given needs, resulting in a crisis in confidence: if our only understanding of success is productive output, and we have exceeded our own demands, how do we justify it continuing?
 
 ## Baudrillard
 
 ### The Consumer Society
 
-*By the mechanisms so thoroughly outlined by Aglietta, Baudrillard breaks new ground by analysing society not through its production but its consumption. The worker's role as worker has been supplanted by his role as consumer. While not nearly so overt as Fordism's early attempts at intervention into the worker's life, the corporation's place in the consumer's life is no small one.*
+*Baudrillard works extensively with the ideas examined by Galbraith but approaches them from another direction entirely. By theorising consumer demands as something instilled, rather than innate, Baudrillard manages to answer the crisis of confidence identified by Galbraith. Furthermore, Baudrillard begins to identify in broad terms the ways and means of the new Fordism: how needs are created and spread, while production becomes a means of sustaining the generation of those "needs".
+
+## Aglietta: A Theory of Capitalist Regulation
+
+*Where Baudrillard speaks broadly and harshly, Aglietta defines and discusses at length with economics of precision. The problems of Neo-Fordism are explained at length, and he provides an account of the other forces responsible for our current state of oppression through technology: centralisation and competition for capital.*
+
+Neo-Fordism: "An articulation between process of production and mode of consumption" (117)
+
+Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta performed a rigourous analysis of Fordism's
+
+### Accumulation and concentration of wealth
+
+- Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
+
+*The accumulation and centralisation of capital leaves firms larger and better able to dictate the terms of the society. The computer industry—once a cottage industry—would give way to these models as these tools were better recognised as means of extracting value from knowledge work.*
 
 ## Ludlow: The Greek God Model of Governance
 
-*Ludlow takes these themes into the present with his model of greek gods (corporations) and mortals (users). Launching-off point for examining alienation, oppression, and social life through computers and smartphones.*
+*Ludlow's writing focusses almost entirely on outright oppression, but embodies the reality of the present: corporations have enormous power over the lives of their workers and consumers. Mere mortals (those very workers and consumers) are left more powerless than ever before as virtually all their choices and opportunities are determined by the movements of the corporate deities above them. From phone contracts to App Stores, the current state of technology is a realisation of dystopia and the actualisation of the corporation's influence on the individual's life.*
 
-Peter Ludlow's *Our Future in Virtual Worlds* is a short essay outlining his concerns with the current trajectory of development in online communities. While his confidence in the form and shape of the coming virtual worlds is misplaced (I am extremely skeptical that the web will have shifted entirely to 3D and interactive environments), his points are based in experience and are pertinent to the growing role of corporate ecosystems in smartphones. Arguing that companies have adopted a "greek god" model of governance and communities are capricious arbiters of justice, Ludlow calls for a new attitude toward transparent and consistent justice online.
+## Marcuse
 
-Ludlow accustoms the reader to his perspective by exposing "real world" governments as virtual constructs; rather than being real, they are concepts that are generated from individuals, legislation, and policy. What, then, makes online communities any different? Their creators—rather than Enlightenment thinkers or politicians—are created by computer engineers of their own will or at the behest of companies. As a result, virtually all questions of governance have been left at the wayside in favour of externally-oriented and legally-defined Terms of Service and End User License Agreements.
+*Marcuse is very much a departure—a critical theorist among Marxists—but his text, **One Dimensional Man**, contains virtually all of these concerns. His chapters—"The New Forms of Control", "From Negative to Positive Thinking: Technological Rationality and the Logic of Domination", and "The Catastrophe of Liberation"—explain our current dilemma and provide a succinct coda for this chapter. In conclusion, our computers have become subject to capitalism and are essential to the ongoing processes of alienation and value extraction around which society now revolves. 
 
-Virtual worlds do not have functional justice systems. The "greek god" style of governance and justice is the haphazard and unfair system intervention by the creator when disputes arise. In the absence of such behaviour, vigilantism takes its place. Individuals or groups will form to defend values or systems as they see fit, but often end up persecuting or bullying fellow citizens of virtual worlds. Both options are utterly opaque and arbitrary, and cause individuals to lose their investment in virtual worlds: be they capital, temporal, or emotional.
+## Conclusions
 
-I reiterate that Ludlow's argument is unnecessarily reductionist and focused on an edge case. His thought regarding the "greek god" model of governance is essential to this work, however. If the smartphone is an extension of the brain and the self, what are we to make of the corporate ecosystems which determine what smartphones are capable of, and how they may operate? Any number of features of smartphones may be constraints on organic growth, because those features are determined by a corporation under market forces. For example: app stores' guidelines. Rather than allowing software apps to develop new capacities which expand the individual's ability, the blessing of the corporation is necessary to reach the smartphone user.
-
-Rather than considering the ramifications upon the user's rights as expressed through the smartphone, I would argue corporations are fundamentally concerned with their profit and legality while remaining tight-lipped about their internal processes. This leads to uneven and inequitable development in smartphones, and locks the augmented self onto a trajectory pre-determined by financial interests.
+**Important themes: (corporative) systems, as they take on history, transition to preservation rather than propulsion (583). In the case of industry and technology, monopolisation and consolidation has become the norm. In American and Fordist culture, caste systems arose due to surplus value and productive capacity among ruling classes (603) [see Baudrillard and systems of penury]. Surplus value and productive capacity inevitably result in castes—though in the American context, labour saving devices created a large consumer class that was still reasonably productive (shifting the lower castes of society out of the U.S. into a global context). That said, change is still possible (even the most tightly swathed baby managed to develop and grow) (584).**
