@@ -1,4 +1,4 @@
 # Go away, .DS_Store. You're drunk. #
 #####################################
 
-*.DS_Store
+.DS_Store
