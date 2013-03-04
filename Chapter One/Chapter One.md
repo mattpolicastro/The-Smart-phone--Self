@@ -88,8 +88,9 @@ To return to Ludlow's metaphor, two gods began fighting, and the mere mortals be
 
 It does not serve serious academic work to employ scare tactics; it is unlikely that the terrible futures predicted by science fiction writers will become reality any time soon. However, it is clear that the modern corporation capable of interfering in the lives of its customers/consumers/users more than was ever possible before. With respect to the Marxist analyses conducted earlier in this chapter, it should be immediately apparent that these issues are deserving of immediate and rigouros critique and analysis. While fighting alienation in real world terms is more important than ever, it is essential to keep our eyes forward. The smartphone is a landmark innovation, on the order of the original desktop computers, but is more affordable, accessible, and powerful than any other information technology that has preceded it. Let it be a tool for empowerment, than the next realm of objectification, commodification, consumption, and alienation.
 
-
-
 ## Marcuse
 
-*Marcuse is very much a departure—a critical theorist among Marxists—but his text, **One Dimensional Man**, contains virtually all of these concerns. His chapters—"The New Forms of Control", "From Negative to Positive Thinking: Technological Rationality and the Logic of Domination", and "The Catastrophe of Liberation"—explain our current dilemma and provide a succinct coda for this chapter. In conclusion, our computers have become subject to capitalism and are essential to the ongoing processes of alienation and value extraction around which society now revolves. 
+*Last-minute addition; his predictions match up perfectly with the other theorists, but his theoretical background (Frankfurt School of critical theory) may be too much of a stretch.*
+
+*Marcuse is very much a departure—a critical theorist among Marxists—but his text, **One Dimensional Man**, contains virtually all of these concerns. His chapters—"The New Forms of Control", "From Negative to Positive Thinking: Technological Rationality and the Logic of Domination", and "The Catastrophe of Liberation"—explain our current dilemma and provide a succinct coda for this chapter. In conclusion, our computers have become subject to capitalism and are essential to the ongoing processes of alienation and value extraction around which society now revolves.*
+
