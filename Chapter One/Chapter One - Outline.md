@@ -11,3 +11,7 @@ Marxism is a powerful tool for understanding capitalist societies. Taylorism and
 - technology as liberation
 - - Vladimir Vernadsky and Teilhard de Chardin developing the notion of a noosphere, a crude notion of an internet
 - - Steven Johnson, *Future Perfect: The Case for Progress in a Networked Age*
+
+# Outline
+## Americanism, Taylorism, and Fordism
+- transformation of the productive process
