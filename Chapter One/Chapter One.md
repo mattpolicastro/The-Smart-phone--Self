@@ -1,6 +1,6 @@
 # Introduction
 
-The world which Marx describe in his writing is obviously different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. While many of the specifics have changed, Marx's broad strokes regarding alienation, oppression, and conflict remain undoubtedly true today. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. For the purposes of this study, the smartphone will be the most commonly cited point of reference [the smartphone is quickly becoming the most-often used computing device for the vast majority of the world, and, as such, is perhaps the most relatable]. While the creators of the computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
+The world which Marx describes in his writing is obviously and markedly different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. While many of the specifics have changed, Marx's broad strokes regarding alienation, oppression, and conflict remain undoubtedly true today. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. For the purposes of this study, the smartphone will be the most commonly cited point of reference [the smartphone is quickly becoming the most-often used computing device for the vast majority of the world, and, as such, is perhaps the most relatable]. While the creators of the computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
 
 *a) the alienation and objectification of the individual*
 
@@ -46,11 +46,11 @@ It was from *The Affluent Society* that Jean Baudrillard began his analysis of t
 
 Both in 1998 at the time of revision and the original writing, the notion of consumer sovereignty was indeed sacrosanct. That Baudrillard did not go so far as completely upsetting the relationship between production and consumption is forgivable in retrospect. Once the liberty of inverting that relationship by placing consumption in the foreground and production as sustaining process, then *The Consumer Society* functions at a much more powerful level.
 
-While Marx never dealt with consumption in its entirety before his death, Baudrillard manages to draw profound parallels between the activity of the worker and the activity of the consumer. Furthermore, media and mass communications were establishing themselves as a hotbed of this consumptive activity and mark a significant point of departure from Marx's conceptions of the commodity.
+Unfortunately, Baudrillard makes a litany of inconsistent or conflicting claims about the nature of consumption throughout the text.
 
-*Baudrillard works extensively with the ideas examined by Galbraith but approaches them from another direction entirely. By theorising consumer demands as something instilled, rather than innate, Baudrillard manages to answer the crisis of confidence identified by Galbraith. Furthermore, Baudrillard begins to identify in broad terms the ways and means of the new Fordism: how needs are created and spread, while production becomes a means of sustaining the generation of those "needs".*
 
-## Aglietta: A Theory of Capitalist Regulation
+
+# Accumulation, Concentration, & The Present
 
 *Where Baudrillard speaks broadly and harshly, Aglietta defines and discusses at length with economics of precision. The problems of Neo-Fordism are explained at length, and he provides an account of the other forces responsible for our current state of oppression through technology: centralisation and competition for capital.*
 
@@ -58,17 +58,19 @@ Neo-Fordism: "An articulation between process of production and mode of consumpt
 
 Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta performed a rigourous analysis of Fordism's
 
-### Accumulation and concentration of wealth
-
 - Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
 
 *The accumulation and centralisation of capital leaves firms larger and better able to dictate the terms of the society. The computer industry—once a cottage industry—would give way to these models as these tools were better recognised as means of extracting value from knowledge work.*
 
 *Attempts to roll back concentration are consistently met with claims of "smothering innovation" or "killing jobs" (Crawford KL 204). Ecohes Galbraith's analysis that the dominant frame of analysis is productivity, though the actual benefits are heightened consumption, a la Baudrillard.*
 
-## Ludlow: The Greek God Model of Governance
+# The Greek God Model of Governance
+
+
 
 *Ludlow's writing focusses almost entirely on outright oppression, but embodies the reality of the present: corporations have enormous power over the lives of their workers and consumers. Mere mortals (those very workers and consumers) are left more powerless than ever before as virtually all their choices and opportunities are determined by the movements of the corporate deities above them. From phone contracts to App Stores, the current state of technology is a realisation of dystopia and the actualisation of the corporation's influence on the individual's life.*
+
+
 
 ## Marcuse
 
