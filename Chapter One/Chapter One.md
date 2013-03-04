@@ -1,27 +1,24 @@
-# Theory One
-*Examines the theories of Marx, Gramsci, and Baudrillard and how they apply to the experience of the consumer in terms of alienation through technology. Ludlow's Greek God model of governance an interesting analogy.*
+# Meta
 
-## Marx
+Marxism is a powerful tool for understanding capitalist societies. Taylorism and Fordism lead to an enormous change in how productive societies functioned. Fordism and its emphasis on production became the foundation for Western capitalist societies after World War II. Where workers were once valued for their productive output, they gradually become more important as consumers. Firms became vertically integrated and concentrated their capital to become more efficient. The result: computers were powerful tools for experimentation, but they have been thoroughly commoditised and created as devices for consumption. Huge corporate entities define the everyday lives of consumer/users as such.
 
-When considering smartphones—particularly the iPhone—many leap to Marx, exclaiming, "what an example of commodity fetishism!". While this layperson is correct in that these products are highly fetishised commodities, his response is reductive. Smartphones and other computers may be complicit in the alienation of the worker, but they are embedded in the larger social, political, and economic system that takes true responsibility. In that sense, Marx's writing was critical in establishing the critical discourse this paper intends to examine.
+# Introduction
 
-However, Marx's work was also limited. His typology of modes of alienation holds true even today, even though he failed to predict the specific, practical manifestations and consequences of these relationships (something Gramsci would accomplish soon thereafter). Similarly, his definition of the commodity and its use-value was limited and failed to anticipate the rise of media and other, non-material commodities. The smartphone itself is a tangible commodity, certainly, but its character and dimensions are virtually infinite as software can broaden or tighten its use-value at will.
+The world which Marx describe in his writing is obviously different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. While many of the specifics have changed, Marx's broad strokes regarding alienation, oppression, and conflict remain undoubtedly true today. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. For the purposes of this study, the smartphone will be the most commonly cited point of reference [the smartphone is quickly becoming the most-often used computing device for the vast majority of the world, and, as such, is perhaps the most relatable]. While the creators of the computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
 
-### ***Economic and Philosophic Manuscripts:*** Alienated Labour
+*a) the alienation and objectification of the individual*
 
-*Alienated labour is essential to understanding the plight of the worker/consumer in contemporary, productive society.*
+*b) the redefinition of collective values by capitalist activity*
 
-In writing his manuscript on alienated labour, Marx had several key assumptions—that society operated on capitalist fundamentals; that the proletariat and the bourgeoisie were estranged—which allowed him to categorise the ways in which the worker was drawn away from a more natural state of labour. Alienation of the worker took four forms: alienation from the products of labour, alienation from labour itself, alienation from himself species-being, and alienation of the worker from other workers. (1994:59–61). It is against this backdrop that all later thinkers examined in this chapter make their arguments.
+*c) the consolidation and accumulation of capital*
 
-## Gramsci: Prison Notebook 22
+Despite their separation, they are all deeply interconnected and are manifestations of the changing face of society. However, they are useful distillations of the themes and theories analysed in this chapter. Again, while Marx's specifics may no longer be applicable, his writing forms a touchstone from which later works better outline our current relationships to ourselves, each other, and the technologies which surround us.
 
-*Establishes the theory of Fordism and thoroughly critiques the growing American culture of corporate paternalism—a trend that has taken on new life in the digital domain.*
+## Americanism, Taylorism, & Fordism
 
 Despite being held as a political prisoner by the Italian Fascist party, Antonio Gramsci was able to analyse and elaborate the enormous changes occurring on the American side of the Atlantic. While Marx had outlined the specific modes of varieties of alienation and exploitation, Gramsci provided a thorough and articulate account of American industry's effects on the worker at the time. After World War I, it was clear the changes taking place in the United States were bleeding over into European culture—the results of which prompted Gramsci's reflections on this potential new epoch of industrial life.
 
-### Americanism and Fordism
-
-Aristocratic classes—kindly termed "parasites" by Gramsci and his contemporaries—were in a precarious position. The industrial revolution had been kind to the United States, and Europe wished to "have a full barrel and a drunken wife" inasmuch that it wished to match American productive capacity while maintaining its traditional aristocracy and attendant social classes (1971:564). While arguments of the time defended the existing class and social structures, Gramsci made quick work of them; cities across Europe had become rife with marginally productive citizens as consequence of law, custom, or tradition. In contrast, the United States did not have "this leaden burden to support"; something evident in Weber's Protestant work ethic prevalence across all sections of American society (1971:570). In effect, American industry developed in a relative vacuum, free to evolve and experiment with new and highly productive relationships between firms and workers.
+The aristocratic classes—kindly termed "parasites" by Gramsci and his contemporaries—were in a precarious position. The industrial revolution had been kind to the United States, and Europe wished to "have a full barrel and a drunken wife" inasmuch that it wished to match American productive capacity while maintaining its traditional aristocracy and attendant social classes (1971:564). While arguments of the time defended the existing class and social structures, Gramsci made quick work of them; cities across Europe had become rife with marginally productive citizens as consequence of law, custom, or tradition. In contrast, the United States did not have "this leaden burden to support"; something evident in Weber's Protestant work ethic prevalence across all sections of American society (1971:570). In effect, American industry developed in a relative vacuum, free to evolve and experiment with new and highly productive relationships between firms and workers.
 
 Rationalism was the new order of the day, and was seized upon by men like Frederick Taylor and Henry Ford. Practices like vertical integration (the stratification and alignment of means of production along one firm's holdings and interests) made leaps and bounds in productivity and efficiency. Unions and skilled labour were subverted by the attractive wages and benefits that were offered by those improvements. Gramsci realised that the factory had become the epicentre of a new hegemony, where "the whole life of the nation revolve[d] around production" (1971:571).
 
@@ -37,7 +34,9 @@ Gramsci openly wondered if the changes wrought by Ford and Taylor could be carri
 
 Mocking Pirandello's claims that a new civilisation had been born in America, Gramsci instead focuses on the United State's sheer productive capacity; "whether America, through the implacable weight of its economic production (and therefore indirectly), will compel or is already compelling Europe to overturn its excessively antiquated economic and basis" (1971:620-21). It is here that Gramsci makes his vies clear: that the underlying culture of American was still very much European, but a new and highly productive economic system was changing its face to something far more intense in its involvement in and alienation of the worker.
 
-With respect to the present, his questions and predictions were prescient. American society was free of history and tradition after World War I, but the profound changes in American life brought about by World War II were plenty to generate the traditions and customs he found so loathsome in Europe. However, rather than aristocracy or new social strata, this history manifested itself in the new practices and expectations of economic activity; the balance of work and leisure; and the profoundly paternal role of the firm in the worker's life. And as the United States took its place as a global superpower, society and economic activity transitioned to preservation, rather than propulsion (Gramsci 1971:583). While Gramsci would die in prison before America fully subsumed European economic systems, his observations would make themselves clear to later thinkers such as Aglietta and Baudrillard—that American activity was "an organic extension and an intensification of European civilisation, which has simply acquired a new coating in the American climate" (1971:622).
+With respect to the present, his questions and predictions were prescient. American society was free of history and tradition after World War I, but the profound changes in American life brought about by World War II were plenty to generate the traditions and customs he found so loathsome in Europe. However, rather than aristocracy or new social strata, this history manifested itself in the new practices and expectations of economic activity; the balance of work and leisure; and the profoundly paternal role of the firm in the worker's life. And as the United States took its place as a global superpower, society and economic activity transitioned to preservation, rather than propulsion (Gramsci 1971:583). 
+
+While Gramsci would die in prison before America fully subsumed European economic systems, his observations would make themselves clear to later thinkers such as Aglietta and Baudrillard—that American activity was "an organic extension and an intensification of European civilisation, which has simply acquired a new coating in the American climate" (1971:622).
 
 ## Galbraith
 
@@ -45,9 +44,7 @@ With respect to the present, his questions and predictions were prescient. Ameri
 
 *Interestingly, Galbraith's interpretation of the "New Class" weirdly resembles our current state of work: primarily knowledge-based, meant to deliver fulfilment or satisfaction. Again, with respect to Marx, Gramsci, and later authors, was this something of an interregnum period? The time where Fordist capitalism, focussed on physical production, had not reoriented itself to extract value through alienation by consumption?*
 
-It was not until after the war that John Kenneth Galbraith wrote his critique of productive life, *The Affluent Society*. Though Galbraith was deeply sceptical of Marxism—an entire chapter of the text is devoted to "The Marxian Pall" and is laden with derision for its adherents—he too was well aware of how thoroughly production had centred itself in society. However, as consequence of his scepticism he is thoroughly unwilling to consider Fordism as a movement of negative social consequence. 
-
-When read with respect to Gramsci and Marx's prior work, *The Affluent Society* is riddled with contradictions. For Galbraith, productive capacity had managed to outstrip any society's given needs, resulting in a crisis in confidence: if our only understanding of success is productive output, and we have exceeded our own demands, how do we justify it continuing?
+John Kenneth Galbraith would likely be mortified to be bound up with the likes of Marx, Gramsci, and the other critical theorists examined here. Despite his clear distaste for their theories—calling them part of the "Marxian Pall" cast over economic analysis—*The Affluent Society* is essential to understanding how the trends identified by Gramsci manifested themselves after World War II. Namely, that the whole of society and public life was understood through notions of productivity.
 
 ## Baudrillard
 
@@ -68,6 +65,8 @@ Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *
 - Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
 
 *The accumulation and centralisation of capital leaves firms larger and better able to dictate the terms of the society. The computer industry—once a cottage industry—would give way to these models as these tools were better recognised as means of extracting value from knowledge work.*
+
+*Attempts to roll back concentration are consistently met with claims of "smothering innovation" or "killing jobs" (Crawford KL 204). Ecohes Galbraith's analysis that the dominant frame of analysis is productivity, though the actual benefits are heightened consumption, a la Baudrillard.*
 
 ## Ludlow: The Greek God Model of Governance
 
