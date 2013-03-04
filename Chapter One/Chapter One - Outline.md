@@ -1,3 +1,7 @@
+# Meta
+
+Marxism is a powerful tool for understanding capitalist societies. Taylorism and Fordism lead to an enormous change in how productive societies functioned. Fordism and its emphasis on production became the foundation for Western capitalist societies after World War II. Where workers were once valued for their productive output, they gradually become more important as consumers. Firms became vertically integrated and concentrated their capital to become more efficient. The result: computers were powerful tools for experimentation, but they have been thoroughly commoditised and created as devices for consumption. Huge corporate entities define the everyday lives of consumer/users as such.
+
 # Core concepts:
 - commodity fetishism & consumption
 - - Marx's conception of commodity fetishism and its poor fit with media, as demonstrated by Marshall Mcluhan and the television
