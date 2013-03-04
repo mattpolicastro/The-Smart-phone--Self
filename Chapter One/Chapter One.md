@@ -62,6 +62,10 @@ Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *
 
 *The accumulation and centralisation of capital leaves firms larger and better able to dictate the terms of the society. The computer industry—once a cottage industry—would give way to these models as these tools were better recognised as means of extracting value from knowledge work.*
 
+## Susan Crawford, Captive Audience
+
+*Useful example of capital accumulation and concentration in the telecommunications industries, and how the corporation has become the most powerful social organisation in the history of Western civilisation. Neatly ties together Aglietta and Baudrillard's main themes and concepts.*
+
 *Attempts to roll back concentration are consistently met with claims of "smothering innovation" or "killing jobs" (Crawford KL 204). Ecohes Galbraith's analysis that the dominant frame of analysis is productivity, though the actual benefits are heightened consumption, a la Baudrillard.*
 
 # The Greek God Model of Governance
