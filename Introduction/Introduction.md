@@ -6,3 +6,4 @@
 - semiconductors --> microchip
 - GUI
 - web app vs. native
+- - API
