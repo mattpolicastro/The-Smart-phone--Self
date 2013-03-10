@@ -1,8 +1,12 @@
-# Introduction
+# The Web Is Dead. Long Live the Internet
 
-The world which Marx describes in his writing is obviously and markedly different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. Marx's themes alienation, oppression, and conflict are just as relevant today as they were at the time of their writing. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. While the modern smartphone is the primary focus of this study, we interact with any number of computers daily; laptops, tablets, ATMs, to name a few. 
+"The Web is Dead. Long Live the Internet", cried *Wired* Magazine in September of 2010. Of course, a firestorm erupted in the wake of this announcement; how could the Web be dead, when more people than ever were active regular participants in online communities? When smartphones were taking over the world, and computers were faster, cheaper, and more interconnected than ever before? *Wired*, the herald of the modern technocracy since its founding in 1993, was recognising that the online world had changed. Rather than using web browsers to move from page to page across the internet, most people's exposure to the internet came through services and purpose-built applications: "Facebook, Twitter, and *The New York Times*" (Anderson and Wolff 2010). The World Wide Web—the flat, chaotic landscape where every user was more or less equal—was being eroded. But by what?
 
-While the architects of the modern computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
+The "cycle of capitalism", answered then-Editor-in-Chief Chris Anderson. "A technology is invented, it spreads,a a thousand flowers, bloom, and then someone finds a way to own it, locking out others. It happens every time." The demise of the Web is a story told a thousand times over in modern history. Anderson cites the monopolisation of the railroads and the telephone lines, and the parallels are all too clear (2010). But in the case of the Web, the internet's face is changing into something else altogether. Rather than engaging in conversation through forums or web pages, the predominant mode of social interaction takes place through services and applications; "the rise of machine-to-machine communications—iPhone apps talking to Twitter APIs—is all about control" (Anderson 2010). As the modes and mediums of social interaction change, so do the interactions that take place through them. 
+
+In any discussion of industrial capitalism and its influence, it is obvious to start with Marx. The world which Marx describes in his writing is obviously and markedly different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society. Marx's themes of alienation, oppression, and conflict are just as relevant today as they were at the time of their printing. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to tell the story of the smartphone: the slow but unyielding march of industrial capitalism into the world of information technology, and and the ever-more pervasive and complex means by which capitalism objectifies, alienates, and oppresses the individual today. 
+
+As shown in the Introduction, the smartphone is but the latest in a family of technologies. For the purposes of this study, the smartphone will be the focus of our analysis, but many if not all of this work could be applied to other devices and services; tablet computers, online social networks, and the like. While the architects of the modern computer saw it as a tool of empowerment and even liberation, it has been transformed into something altogether more mundane and ordinary. This process and our present relation to information technology was brought about by the confluence of three historical trends as identified by Marx:
 
 *a) the alienation and objectification of the individual*
 
@@ -10,9 +14,7 @@ While the architects of the modern computer saw it as a tool of empowerment and 
 
 *c) the consolidation and accumulation of capital*
 
-Despite their separation, they are all deeply interconnected and are manifestations of the changing face of society. However, they are useful distillations of the themes and theories analysed in this chapter. Marx's conceptions of commodities, objectification, and alienation have been rendered obsolete, inasmuch that the nature of production and consumption has changed. However, his writing is absolutely foundational to the later works which better theorise current social life.
-
- ourselves, each other, and the technologies which surround us.
+Despite their being separated, each is thoroughly involved in the development of the others. For the purposes of this study, they are compact distillations of both Marx's work and the themes and theories analysed in this chapter. Marx's specific conceptions and definitions of commodities, objectification, and alienation have largely been rendered obsolete, inasmuch that the nature of production and consumption has been profoundly changed in the past century. However, his work was essential to the later works which better outline our current relationships; with the smartphone, with each other, and with ourselves.
 
 ## Americanism, Taylorism, & Fordism
 
@@ -48,7 +50,7 @@ Both in 1998 at the time of revision and the original writing, the notion of con
 
 Unfortunately, Baudrillard makes a litany of inconsistent or conflicting claims about the nature of consumption throughout the text.
 
-
+*Return to Wolff's account of media consumption and corporate influence on computing in Wired Sep. 2010*
 
 # Accumulation, Concentration, & The Present
 
@@ -87,3 +89,6 @@ To return to Ludlow's metaphor, two gods began fighting, and the mere mortals be
 # Conclusions
 
 It does not serve serious academic work to employ scare tactics; it is unlikely that the terrible futures predicted by science fiction writers will become reality any time soon. However, it is clear that the modern corporation is capable of interfering in the lives of its customers/consumers/users more than was ever possible before. With respect to the Marxist analyses conducted earlier in this chapter, it should be immediately apparent that these issues are deserving of immediate and rigorous critique and analysis. While fighting alienation in real world terms is more important than ever, it is essential to keep our eyes forward. The smartphone is a landmark innovation, on the order of the original desktop computers, but is more affordable, accessible, and powerful than any other information technology that has preceded it. Let it be a tool for empowerment, rather than the next realm of objectification, commodification, consumption, and alienation.
+
+
+## Anil Dash: The Web We Lost
