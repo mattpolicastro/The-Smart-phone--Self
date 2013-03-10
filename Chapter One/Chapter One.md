@@ -1,6 +1,8 @@
 # Introduction
 
-The world which Marx describes in his writing is obviously and markedly different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. While many of the specifics have changed, Marx's broad strokes regarding alienation, oppression, and conflict remain undoubtedly true today. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. For the purposes of this study, the smartphone will be the most commonly cited point of reference [the smartphone is quickly becoming the most-often used computing device for the vast majority of the world, and, as such, is perhaps the most relatable]. While the creators of the computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
+The world which Marx describes in his writing is obviously and markedly different from our own. However, the ideas he elaborated then are absolutely essential to understanding our own society now. Marx's themes alienation, oppression, and conflict are just as relevant today as they were at the time of their writing. By examining the work of later theorists—Gramsci, Baudrillard, and Aglietta, primarily—I hope to build a narrative explaining our relatively fraught relationship with computers and information technology. While the modern smartphone is the primary focus of this study, we interact with any number of computers daily; laptops, tablets, ATMs, to name a few. 
+
+While the architects of the modern computer saw it as a tool of empowerment and even liberation, the layperson sees it as mundane or even as a malignant presence. Our current condition was brought about by the confluence of three historical trends as identified by Marx:
 
 *a) the alienation and objectification of the individual*
 
@@ -8,7 +10,9 @@ The world which Marx describes in his writing is obviously and markedly differen
 
 *c) the consolidation and accumulation of capital*
 
-Despite their separation, they are all deeply interconnected and are manifestations of the changing face of society. However, they are useful distillations of the themes and theories analysed in this chapter. Again, while Marx's specifics may no longer be applicable, his writing forms a touchstone from which later works better outline our current relationships to ourselves, each other, and the technologies which surround us.
+Despite their separation, they are all deeply interconnected and are manifestations of the changing face of society. However, they are useful distillations of the themes and theories analysed in this chapter. Marx's conceptions of commodities, objectification, and alienation have been rendered obsolete. However, his writing is absolutely foundational to 
+
+ his writing forms a touchstone from which later works better outline our current relationships to ourselves, each other, and the technologies which surround us.
 
 ## Americanism, Taylorism, & Fordism
 
@@ -56,7 +60,7 @@ Unfortunately, Baudrillard makes a litany of inconsistent or conflicting claims 
 
 Neo-Fordism: "An articulation between process of production and mode of consumption" (117)
 
-Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta performed a rigourous analysis of Fordism's
+Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *A Theory of Capitalist Regulation*, Michel Aglietta performed a rigorous analysis of Fordism's
 
 - Has precedent in Marx (*Capital*: Volume One: Chapter 32: The Historical Tendency of Capitalist Accumulation) and Gramsci (his study of the women of wealthy ruling classes in "Rationalisation of Production and Work").
 
@@ -66,7 +70,7 @@ Where Gramsci saw the potential for abuse, Aglietta knew it in detail. Through *
 
 *Useful example of capital accumulation and concentration in the telecommunications industries, and how the corporation has become the most powerful social organisation in the history of Western civilisation. Neatly ties together Aglietta and Baudrillard's main themes and concepts.*
 
-*Attempts to roll back concentration are consistently met with claims of "smothering innovation" or "killing jobs" (Crawford KL 204). Ecohes Galbraith's analysis that the dominant frame of analysis is productivity, though the actual benefits are heightened consumption, a la Baudrillard.*
+*Attempts to roll back concentration are consistently met with claims of "smothering innovation" or "killing jobs" (Crawford KL 204). Echoes Galbraith's analysis that the dominant frame of analysis is productivity, though the actual benefits are heightened consumption, a la Baudrillard.*
 
 # The Greek God Model of Governance
 
@@ -86,11 +90,4 @@ To return to Ludlow's metaphor, two gods began fighting, and the mere mortals be
 
 # Conclusions
 
-It does not serve serious academic work to employ scare tactics; it is unlikely that the terrible futures predicted by science fiction writers will become reality any time soon. However, it is clear that the modern corporation capable of interfering in the lives of its customers/consumers/users more than was ever possible before. With respect to the Marxist analyses conducted earlier in this chapter, it should be immediately apparent that these issues are deserving of immediate and rigouros critique and analysis. While fighting alienation in real world terms is more important than ever, it is essential to keep our eyes forward. The smartphone is a landmark innovation, on the order of the original desktop computers, but is more affordable, accessible, and powerful than any other information technology that has preceded it. Let it be a tool for empowerment, than the next realm of objectification, commodification, consumption, and alienation.
-
-## Marcuse
-
-*Last-minute addition; his predictions match up perfectly with the other theorists, but his theoretical background (Frankfurt School of critical theory) may be too much of a stretch.*
-
-*Marcuse is very much a departure—a critical theorist among Marxists—but his text, **One Dimensional Man**, contains virtually all of these concerns. His chapters—"The New Forms of Control", "From Negative to Positive Thinking: Technological Rationality and the Logic of Domination", and "The Catastrophe of Liberation"—explain our current dilemma and provide a succinct coda for this chapter. In conclusion, our computers have become subject to capitalism and are essential to the ongoing processes of alienation and value extraction around which society now revolves.*
-
+It does not serve serious academic work to employ scare tactics; it is unlikely that the terrible futures predicted by science fiction writers will become reality any time soon. However, it is clear that the modern corporation capable of interfering in the lives of its customers/consumers/users more than was ever possible before. With respect to the Marxist analyses conducted earlier in this chapter, it should be immediately apparent that these issues are deserving of immediate and rigorous critique and analysis. While fighting alienation in real world terms is more important than ever, it is essential to keep our eyes forward. The smartphone is a landmark innovation, on the order of the original desktop computers, but is more affordable, accessible, and powerful than any other information technology that has preceded it. Let it be a tool for empowerment, than the next realm of objectification, commodification, consumption, and alienation.
