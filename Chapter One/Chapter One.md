@@ -54,7 +54,38 @@ Gramsci recognised it was not a question of cultural dominance—it was the tran
 
 The American model of production—the continual expansion of industry in materials and scope, and the alignment of state and society around the capitalist mode of production—Aglietta termed a "regime of accumulation" (1979:72). In the aftermath of World War II, Europe was left in ashes. The Fordist regime of accumulation, which was struggling to expand further within the boundaries of the United States—was suddenly offered up new and vacant realms not entirely unlike the lands and peoples of the pre-colonial Americas. Thusly, Fordism transcended its American roots and became the global phenomenon of capitalist production in the modern era.
 
-## The Consumer Society
+## Security
+
+And so we understand how the Fordist regime of accumulation became the basis of contemporary Western societies. Aside from a few periods of minor turbulence (e.g. the early labour movement), the Fordist system appears to have faced very little in the way of challenges as it gradually dominated economic and social relations the world over. However, this is not so.
+
+*The Affluent Society*, John Kenneth Gailbrath's critique and analysis of American post-war economics and social relations, is a substantial departure from the work of Aglietta, Marx, or Gramsci. While he acknowledged the importance of Marx's writing in establishing a discourse around capitalism, he was loath to associate himself with Marx's calls for revolution. Instead, Galbraith was an enthusiastic supporter of the Fordist system; however, he understood there were critical challenges facing that regime of accumulation which needed immediate redress. In establishing itself as a world power, both militarily and economically, the United States had achieved levels of wealth theretofore unknown to humanity. While Galbraith would have been one of the last to suggest this newfound wealth was somehow wrong, he did recognise this: "wealth is the relentless enemy of understanding" (1998:1). The United States had achieved dominance as a result of its unique history; but it could not remain to the most pressing problems of the post-war period: security.
+
+Gailbraith understood the security of the Fordist system was threatened. In more conventional Marxist terms, there was an imminent threat of the capitalist mode of production failing to reproduce itself within and beyond the general wage relation which had been established up to that point. The Fordist regime of accumulation had invariably led to crises of accumulation—the depressions of the early 20th century being excellent examples. Aglietta stated, "Every major crisis of accumulation is a crisis of the present conditions of reproduction of this relation" (1979:169). In the American context, over-production had resulted in diminishing surplus-value, prompting vicious cycles which typically necessitated intervention from the state (e.g. the New Deal, state investment in WWII private industry). Gailbraith summarised the dilemma as such: "the preoccupation with production is forced quite genuinely upon us by the tight nexus between production and economic security" (1998:255). While the Fordist system had succeeded in conquering the world it still suffered from flaws which threatened its most fundamental security. This resulted in the following two adaptations: the socialisation of consumption, and the ossification of the Fordist regime of accumulation. It is here that we turn to Baudrillard's observation of these developments within their own time: *The Consumer Society*.
+
+### The Consumer Society
+
+At this point, it becomes necessary to step back and make several meta-theoretical remarks. While this study has focussed primarily on traditional Marxist positions of economic determinism and class conflict, it should be apparent that this framework is slightly reductive and does not fully encompass the  entirety of our current relations to computing technologies and each other. As such, Baudrillard's *The Consumer Society* functions as a vital departure. While many of the terms and concepts typical of Marxist discourse are used liberally throughout, *The Consumer Society* is at its most fundamental a structural-functionalist analysis. Baudrillard had begun his examination of semiotics with *The System of Objects* and continued that work into this particular specimen of his writing. The text suffers from internal inconsistencies—his appeals to traditional Marxist analysis and post-modern semiotics do not quite match up—but Baudrillard successfully progressed the dialogue from conflict between the classes to a discussion of the establishment and reproduction of the systems responsible for a profoundly productive society comprised virtually entirely of consumers. George Ritzer, author of the introduction to the English translation of the text, was right in pointing out “the sense, in this work, both explicitly and implicitly, that production is the base and all else, including consumption and the culture of which it is such an integral part, is superstructure” (Baudrillard 1998: KL 90–91). 
+
+Baudrillard's writing was thoroughly influential on Aglietta; the first half of *A Theory of Capitalist Regulation* focusses on the development of Fordism in a Marxist dialogue of class and production, but virtually all discussion of consumption in the text occurs outside the frame of class conflict. Instead, the socialisation of consumption and the ossification of institutions is very much examined from a broadly macro-sociological perspective.
+
+### The Socialisation of Mass Consumption
+
+While Marx was never able to write at length on consumption, it is obvious he understood its importance. Commodification applied not only to the treatment of the worker, but also the worker's products, and his conception of commodity fetishism was an early attempt at understanding the new world of consumer goods. Aglietta defines consumption much more thoroughly, however. While the alienation and objectification of the worker was a necessary condition for the capitalist mode of production, the formation of a "social norm of working-class consumption" is a means of maintaining that very mode of production (Aglietta 1979:152). 
+
+Prior to Fordism, the primary space of consumption—the home—remained outside the sphere of production, and could not be interfered in by capitalism (1979:156-57). The transition to Fordism also brought about two major developments: standardised housing and transportation. necessities which allowed capitalist influence to extend beyond the previously-demarcated boundaries between work and life. Indeed, as organisations like the extended family were rent apart by the urbanisation characteristic of rapid capitalist development, commodities became increasingly small in scope and were facilitated through the workplace, the home, and transportation: the means of consumption (1979:158–59). It is important to reiterate: these changes were tremendously progressive at first blush; they eliminated many of the hazards of heavy industrial development, but they were very much part of the growing influence the capitalist system maintained outside of the labour exchange. The final result was the socialisation of mass consumption; the production and consumption of commodities in unprecedented numbers to maintain the relation of the worker to the capitalist. 
+
+This process stabilised the productive system in terms of its reproduction of wage relations, but also plated an important role in stabilising the overall structural considerations of the Fordist regime of accumulation. By this, I mean to say the frontier principle was applied in concert with the socialisation of consumption to promote the patterns observed by Veblen (e.g. conspicuous consumption and status through commodity accumulation). By the time of Baudrillard's writing, the consumer society had grown into itself, as he analysed virtually any aspect of the society as being an avenue of social reproduction.
+
+In the transition from purely Marxist analysis, the greatest stumbling block is that of class conflict. How could the struggle between the bourgeoisie and the proletariat be cast off as such? For Baudrillard, that model of class conflict had instead been reinterpreted as structural wealth and structural penury. For rather than relying solely on the wage relation—an economic relationship which had become thoroughly confused by the proliferation of non-production-oriented professions (e.g. teaching, advertising)—the maintenance of a broad middle class, able to consume, necessitated the deprivation of individauls.
+
+
+
+
+
+
+
+
+
 
 ### Intro
 
@@ -65,14 +96,6 @@ By Gramsci and Aglietta's analysis, it becomes clear that the capitalism describ
 3. The processes of alienation and objectification were transformed even further with the advent of Fordism, which objectified the worker not only as a source of production labour but also as an end for the consumption of commodities.
 
 Gramsci virtually ignored consumption, but again, Aglietta was equipped with the distance of history to identify the origins of capitalist consumption. We understand that in the development of Fordism, the role of the worker was transforming to that of the consumer. But how did that change take place?
-
-### The Creation of the Consumer
-
-While Marx was never able to write at length on consumption, it is obvious he understood its importance. Commodification applied not only to the treatment of the worker, but also the worker's products, and his conception of commodity fetishism was an early attempt at understanding the new world of consumer goods. Aglietta defines consumption much more thoroughly, however. While the alienation and objectification of the worker was a necessary condition for the capitalist mode of production, the formation of a "social norm of working-class consumption" is a means of maintaining that very mode of production (1979:152). 
-
-Prior to Fordism, the primary space of consumption—the home—remained outside the sphere of production, and could not be interfered in by capitalism (1979:156-57). However, the transition to Fordism also brought about standardised housing and transportation: necessities which allowed capitalist influence to extend beyond the previously-demarcated boundaries between work and life. Indeed, as organisations like the extended family were rent apart by the urbanisation characteristic of rapid capitalist development, commodities became increasingly small in scope and were facilitated through the workplace, the home, and transportation: the means of consumption (1979:158–59). It is important to reiterate: these changes were tremendously progressive at first blush; they eliminated many of the hazards of heavy industrial development, but they were very much part of the growing influence the capitalist system maintained outside of the labour exchange. The final result was the socialisation of mass consumption; the production and consumption of commodities in unprecedented numbers to maintain the relation of the worker to the capitalist, but to practically maintain the generation of surplus-value. 
-
-This process of surplus-value generation and capital accumulation, however, inevitably led to crises of accumulation—the depressions of the early 20th century being excellent examples. Aglietta concluded, "Every major crisis of accumulation is a crisis of the present conditions of reproduction of this relation" (1979:169). It is here that the frontier principle is reapplied; just as the United States recognised war-torn Europe as a new frontier for production and consumption, the socialisation of consumption evolved from bare necessity to considerations of class and status (the birth of "keeping up with the Joneses") (1979:157). 
 
 
 This logic has become rampant in the computing industries, if only inadvertently. "Disrupt yourself, before you are disrupted" has become the mantra of businesses who wish to maintain their profits and dominance. Crises of value accumulation happen alarmingly fast—look to the example of Blackberry, which maintained a highly-successful line of cellphones and early smartphones. With the wild success of the iPhone, consumer conceptions shifted dramatically, and the company now faces near-extinction as it realigns its product lines, internal structures, and relations to the rest of the system.
@@ -85,21 +108,17 @@ Baudrillard regularly called on Marxist terms and arguments to substantiate his 
 
 - he coined the notion of a means of consumption, but in explaining the dynamics of these relations he relies on late modernist or postmodern semiotics. while a theoretical departure, this is a better fit for the digital, where there is no "material process, is is located in space; it has a specific geography and object-network" (Aglietta 1979:156).
 
-## Security & Structuralism
+# Discussion 
 
-- The Great Depression would come about as a consequence of over-production, but the state intervened via programs like the New Deal and facilitated eventual recovery through the second World War (Aglietta 1979:87).
-
-### Galbraith's Conception of Security
-
-### Baudrillard & Structuralism
-
-### Aglietta & Crawford: Concentration & Consolidation
+## Aglietta & Crawford: Concentration & Consolidation
 
 - broadband and cellular consolidation
 
 - social network consolidation
 
-# Discussion 
+
+
+
 
 ## Greek God Model of Governance
 
