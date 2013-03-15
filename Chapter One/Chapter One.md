@@ -140,6 +140,12 @@ To return to Ludlow's metaphor, two gods began fighting, and the mere mortals be
 
 ## Examples
 
+It is exceedingly rare to find an example which perfectly sums up the themes examined in any given study. So it is with great surprise and enthusiasm that I retell this story:
+
+RSS (Rich Site Summary, often stylised as Really Simple Syndication) is a system for subscribing to content sources (e.g. websites) on the Web, and was an early success of an organically-developed community standard. Originally a product of the early web browser developer Netscape, the proper ownership of RSS became contentious over the years; that did not stop its widespread adoption as a standard for users to aggregate content through web clients or desktop programs ("readers"). However, the game changed when Google released its own, free RSS client, Google Reader, in 2005. Like all of Google's services, it was supported through Google's targeted advertisements delivered to users. While Reader was a leap forward in terms of adoption of RSS and usability for the user, there was an unintended consequence: the RSS reader ecosystem collapsed. Few, if any, developers could continue producing quality clients. In short: Google Reader's suddenly monolithic presence sucked all the air out of the room. 
+
+While the transition was abrupt, it
+
 - Facebook vs. ADN
 
 - Conspicuous non-consumption
