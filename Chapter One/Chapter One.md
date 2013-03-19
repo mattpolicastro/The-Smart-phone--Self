@@ -18,11 +18,11 @@ In any discussion of industrial capitalism and its influence, it is obvious to s
 
 As shown in the Introduction, the smartphone is but the latest in a family of technologies. For the purposes of this study, the smartphone will be the focus of our analysis, but many if not all of this work could be applied to other devices and services; tablet computers, online social networks, and the like. While the architects of the modern computer saw it as a tool of empowerment and even liberation, it has been transformed into something altogether more mundane and ordinary. This process and our present relation to information technology was brought about by the confluence of three historical trends as identified by Marx:
 
-*a) the alienation and objectification of the individual*
+> *a) the alienation and objectification of the individual*
 
-*b) the redefinition of collective values by capitalist activity*
+> *b) the redefinition of collective values by capitalist activity*
 
-*c) the consolidation and accumulation of capital*
+> *c) the consolidation and accumulation of capital*
 
 Despite their being separated, each is thoroughly involved in the development of the others. For the purposes of this study, they are compact distillations of both Marx's work and the themes and theories analysed in this chapter. Marx's specific conceptions and definitions of commodities, objectification, and alienation have largely been rendered obsolete, inasmuch that the nature of production and consumption has been profoundly changed in the past century. However, his work was essential to the later works which better outline our current relationships; with the smartphone, with each other, and with ourselves.
 
