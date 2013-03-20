@@ -26,4 +26,18 @@ And so I feel it vitally important to this study to include my experiences with 
 
 ## Qualitative Individual Interviews
 
+- participant solicitation
+- - public postings
+- - contact price
+- interview format
+- - instrument design
+- - interview context (e.g. location)
+- - recording medium
+- - consent form/follow-up survey
+- analysis
+- - transcription
+- - analysis w/ respect to Turkle's research
+
 ## Autoethnography
+
+*I feel that I've covered much of the rationale behind the use of autoethnography in the first section, but what is there to say for methodology? My personal process of collecting, cataloging, and writing autoethnographies to focus on particular themes or relationships?*
