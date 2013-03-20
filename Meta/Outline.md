@@ -33,11 +33,37 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 
 ## Theory 1
 
-*Examines and discusses Marxist analysis with respect to contemporary consumer culture via the lens of the smartphone.
+*Examines and discusses Marxist analysis with respect to contemporary consumer culture via the lens of the smartphone.*
 
 ## Theory 2
 
+*Provides an alternative account of technological development and interaction in human social life; also introduces cyborg theory and actor network theory as alternative systems of establishing meaning.*
+
 # 4 - Methods
+
+*Outlines the rationale behind the methods used to collect and analyse data.*
+
+## Introduction
+
+## Qualitative Over Quantitative
+
+## Methodologies
+
+### Autoethnography
+
+### Qualitative Interviews
+
+- participant solicitation
+- - public postings
+- - contact price
+- interview format
+- - instrument design
+- - interview context (e.g. location)
+- - recording medium
+- - consent form/follow-up survey
+- analysis
+- - transcription
+- - analysis w/ respect to Turkle's research
 
 # 5 - Results
 
