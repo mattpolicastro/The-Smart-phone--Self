@@ -2,7 +2,7 @@
 
 In the grand drama of 24-hour mass media, technology is cast alternately as both hero and villain. In product announcements and unveilings, a new smartphone is heralded as "life companion" (Samsung 2013), while texting teens are diagnosed in grave tones with smartphone addiction. For an ever-growing portion of the population, there will have been no life before computers. While a conventional Marxist critique sees technology as no more than a means to the ends of various economic forces, it would seem that we somehow know the smartphones, tablets, laptops, and all other varieties of computers play a much more substantial role than that. 
 
-Genevieve Bell, chief anthropologist for Intel (one of , if not the, world's preeminent microprocessor manufacturers), summarized moral crises about technology as such: technological innovations are well and good until they satisfy the following rules: 
+Genevieve Bell, chief anthropologist for Intel (one of the world's preeminent microprocessor manufacturers), summarized moral crises about technology as such: technological innovations are well and good until they satisfy the following rules: 
 
 1. Our relationship to time must change.
 1. Our relationship to space must change. 
