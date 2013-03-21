@@ -35,9 +35,27 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 
 *Examines and discusses Marxist analysis with respect to contemporary consumer culture via the lens of the smartphone.*
 
+### the web is dead, long live the Internet
+
+### Americanism, Taylorism, & Fordism
+
+### security
+
+### the consumer society/the socialisation of mass consumption
+
+### capital accumulation and consolidation
+
+### discussion of these themes with respect to technology, Greek god model of governance, a model for revolution
+
 ## Theory 2
 
 *Provides an alternative account of technological development and interaction in human social life; also introduces cyborg theory and actor network theory as alternative systems of establishing meaning.*
+
+### technics to technium
+
+### turkle
+
+### cyborg theory and actor network theory
 
 # 4 - Methods
 
@@ -67,7 +85,9 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 
 # 5 - Results
 
-- themes
+## Introduction/population description
+
+## Data & Analysis
 - - Computer education in early childhood
 > > compare to Turkle's work in *The Second Self*
 - - Study abroad/long distance communications
@@ -78,3 +98,27 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 > > examine attitudes of participants as well as a Marxist analysis of means of consumption
 
 # 6 - Conclusion
+
+## Conclusions
+
+***
+
+## Suggestions/Predictions
+
+### The devolution of technology as a revolutionary ideology
+
+*A look at products like Makerbot, crowdsourcing, and App.net. there is a growing movement away from the monolithic structures of Facebook and others as their abrogations of privacy and objectification/alienation become better-known.*
+
+### Claptrap's New Robot Revolution
+*The status of computers as marginal objects will grow only more complicated as robots become larger parts of our lives.*
+
+- Alone Together's sections on robots
+- Robots like [Baxter](http://www.rethinkrobotics.com/index.php/products/baxter/) [which rolls into the next section]
+
+### Feminism in tech
+
+*The subculture of technology is even more oppressive than larger society. Self-critique is rare w/ respect to issues like gender/sexuality/diversity, the environment, or alternative arrangements of social life.*
+
+## re-writing the self
+
+McLuhan showed us how extensively we have rewritten ourselves, while Haraway showed us the freedom of moving away from binaries. ANT and API's. media studies will be critical to understanding the transformations occurring within the self. there is the very real threat of media and technological progress completely outstripping our biology, which still moves slowly. but our conclusions regarding the smartphones are as such: the possibilities offered by cyborg theory are encouraging to say the least. class consciousness within the consumer society is the ultimate end goal, but that process is a long one. the first step is to subvert the means of consumption: jailbreaking phones, remixing content, pushing back against the corporatist influence as manifested by corporations themselves and the state.
