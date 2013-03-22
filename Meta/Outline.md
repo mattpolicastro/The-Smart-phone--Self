@@ -110,6 +110,8 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 
 *A look at products like Makerbot, crowdsourcing, and App.net. there is a growing movement away from the monolithic structures of Facebook and others as their abrogations of privacy and objectification/alienation become better-known.*
 
+- In general, we have come to accept current, specific applications of computer technology as inevitable. We lose sight of the fact that things were once different and might have developed along other paths if different decisions had been taken by manufacturers and consumers, by educators and governments. Yet, if we hope to construct Sherry Turkle. The Second Self: Computers and the Human Spirit (p. 4). Kindle Edition. 
+
 ### Claptrap's New Robot Revolution
 *The status of computers as marginal objects will grow only more complicated as robots become larger parts of our lives.*
 
@@ -123,3 +125,8 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 ## re-writing the self
 
 McLuhan showed us how extensively we have rewritten ourselves, while Haraway showed us the freedom of moving away from binaries. ANT and API's. media studies will be critical to understanding the transformations occurring within the self. there is the very real threat of media and technological progress completely outstripping our biology, which still moves slowly. but our conclusions regarding the smartphones are as such: the possibilities offered by cyborg theory are encouraging to say the least. class consciousness within the consumer society is the ultimate end goal, but that process is a long one. the first step is to subvert the means of consumption: jailbreaking phones, remixing content, pushing back against the corporatist influence as manifested by corporations themselves and the state.
+
+- Thus, this book became a study of a culture in the making. A computer culture that in one way or another touches us all. And because it affects our lives in so many ways, this book takes its questions about this nascent culture from many perspectives.
+
+Sherry Turkle. The Second Self: Computers and the Human Spirit (p. 23). Kindle Edition. 
+
