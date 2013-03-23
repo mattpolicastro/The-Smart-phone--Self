@@ -42,16 +42,11 @@ Of the participants interviewed for this study, all described their early experi
 
 To members of our generation, being that young and having a problem copying and pasting text is unsurprising—perhaps even a source of sympathy. But it clashes jarringly with the students Turkle observed only fifteen years before. In discussing the behaviours and phenomena surrounding child programmers, Turkle begins with Robin. Robin, four years old and in a nursery school, is described as "playing a game that allows her to build stick figures by commanding the computer to make components appear and move into a desired position. The machine responds to Robin's commands and tells her when it does not understand an instruction." (2005:91). But unlike the computer games of the 90's, Robin was able to do all this by typing commands into the machine, rather than pointing and clicking—a stunning contrast to Debby's experience.
 
-As powerful as Turkle's conceptualisation of the computer as an evocative object was at the time, it seems to have been somewhat diminished. 
+As powerful as Turkle's conceptualisation of the computer as an evocative object was at the time, it seems to have been diminished. With respect to the narrative established in Chapter One, the introduction of the GUI transformed the experience of using a computer. It was a double-edged sword: while the GUI lowered the bar of entry to using a computer by reducing the complexity of its operation, it inadvertently made it more difficult for children and adolescents to experiment or express themselves. While teachers were no longer so easily outsmarted by their students, applications and programs designed for specific purposes instituted hard limits on their usage—resulting in the goal-oriented and productively-minded computer classes meant to teach basic skills and nothing more. In many ways, the experience of using a computer was refocussed through the adult context:
 
+> "Adults are more settled. In the worst of cases, they are locked into roles, afraid of the new, and protective of the familiar. Even when they are open to change, established ways of thinking act as a braking force on the continual questioning so characteristic of children… Some people are intimidated by computers and keep their distance. Others see them merely "as a tool" and assimilate them into their nine-to-five life." (2005:155).
 
-While Robin's case was particularly unusual, it was part of a larger phenomenon: children using computers as sites of exploration, learning, and interaction. At Austen, the computers became host to a variety of activities, "children developed highly individualised approaches to programming that provided a window onto larger issues of intellectual style and personality" (2005:94). Even in schools where computers were relatively scant, "there were some children who were particularly excited about programming, who shared ideas with other child programmers, who began to build an intellectual community. These children often found themselves in an unusual situation: in this domain they became experts, even more expert than their teachers" (2005:93).
-
-
-
-
-
-
+And so, by the time these participants had reached middle and high school, computers had largely been rendered as means for either consumption of media (predominantly video games) or production (school assignments).
 
 ## The Global Village and Contemporary Telecommunications
 
