@@ -2,6 +2,8 @@
 
 ## Acknowledgements [pg. i]
 
+
+
 - Prof. Adams
 - friends
 - family
@@ -93,8 +95,10 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 > > compare to Turkle's work in *The Second Self*
 - - Study abroad/long distance communications
 > > autoethnography of time spent abroad and technological anxiety in the United States; compare to McLuhan and the global village
-- - Technology "addiction" and coping mechanisms; technology diets
+- - Extension of the self, Technology "addiction", and coping mechanisms; technology diets
 > > cf. to Turkle in *Alone Together*
+- - - access
+- - - addiction
 - - Commodification and corporatism in consumer technology; Google Glass
 > > examine attitudes of participants as well as a Marxist analysis of means of consumption
 
@@ -105,6 +109,8 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 ***
 
 ## Suggestions/Predictions
+
+- technology as rorschach test
 
 ### The devolution of technology as a revolutionary ideology
 
